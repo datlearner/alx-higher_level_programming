@@ -7,6 +7,8 @@ def myFunction(number):
         return nums[t_n] + nums[sin_gle]
     else:
         return nums[sin_gle]
+
+
 if __name__ == '__main__':
     for number in range(99):
         print('{:d} = 0x{}'.format(number, myFunction(number)))
