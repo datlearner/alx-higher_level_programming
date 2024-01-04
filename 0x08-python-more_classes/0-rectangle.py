@@ -3,6 +3,6 @@
 """
 
 
-def Rectangle(self):
+def Rectangle:
     """empty class"""
     pass
