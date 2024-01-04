@@ -2,4 +2,4 @@
 """ empty class Rectangle that defines a rectangle
 """
 
-def
+def function
