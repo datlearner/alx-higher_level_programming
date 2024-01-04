@@ -3,6 +3,6 @@
 """
 
 
-def Rectangle:
-    """empty class"""
+class Rectangle:
+    """ class rectangle"""
     pass
