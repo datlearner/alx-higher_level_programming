@@ -1,2 +1,2 @@
-#!/usr/bin/python3
-No
+#!/usr/bin/python3 
+'No\n'
