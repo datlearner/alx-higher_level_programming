@@ -1,5 +1,4 @@
 #!/usr/bin/node
-let myList = ['C is fun', 'Python is cool', 'Javascript is amazing'];
-for (i in myList) {
-	console.log(myList[i]);	
-}
+console.log('C is fun');
+console.log('Python is cool');
+console.log('JavaScript is amazing');
